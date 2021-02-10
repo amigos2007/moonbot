@@ -1,1 +1,1 @@
-# moonbot
+# discord-bot
